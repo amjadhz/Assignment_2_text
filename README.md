@@ -25,6 +25,7 @@ tasks
 Literature review for chosen dataset:
 
 Dataset 1: Phishing Attempts.
+Link to the data : https://www.kaggle.com/datasets/subhajournal/phishingemails/data
 - https://www.sciencedirect.com/science/article/pii/S0747563224001420
 - https://ceur-ws.org/Vol-2940/paper10.pdf
 - https://www.phishing.org/what-is-phishing
