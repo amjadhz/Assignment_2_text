@@ -6,7 +6,9 @@ Research Question 2: Can topic modeling combined with engagement metrics (e.g., 
 Literature review for chosen dataset:
 
 Dataset 1: Phishing Attempts.
-
+- https://www.sciencedirect.com/science/article/pii/S0747563224001420
+- https://ceur-ws.org/Vol-2940/paper10.pdf
+- https://www.phishing.org/what-is-phishing
 
 Dataset 2: Fake News.
 - https://www.mdpi.com/2227-7390/9/22/2988
