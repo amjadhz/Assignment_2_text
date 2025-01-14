@@ -1,5 +1,21 @@
 Research Question 1:
 How do linguistic and contextual features in emails contribute to identifying phishing attempts?
+Methodology
+- preprocess
+- clean data tokonize
+- divide test and train data
+- address class imbalance?
+- vector embedding? 
+- or bert? classification labeling?
+- train models
+- test models
+- visualize results
+
+tasks
+- literature review
+- description dataset and methodology
+- discussion results
+
 
 Research Question 2: Can topic modeling combined with engagement metrics (e.g., retweets) predict the likelihood of news being fake across different source domains?
 
