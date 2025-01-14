@@ -13,3 +13,26 @@ Dataset 1: Phishing Attempts.
 Dataset 2: Fake News.
 - https://www.mdpi.com/2227-7390/9/22/2988
 - https://ieeexplore.ieee.org/abstract/document/9709267
+
+
+# For working localy:
+
+create venv for python on your device use these commands: 
+ - Create Venv :
+
+```
+py -m venv .venv
+```
+
+ - Activate Venv:
+
+```
+.venv\Scripts\activate
+```
+
+Install Libraries from requirements.txt
+
+```
+pip install -r requirements.txt
+```
+
