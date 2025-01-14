@@ -10,4 +10,4 @@ Dataset 1: Phishing Attempts.
 
 Dataset 2: Fake News.
 - https://www.mdpi.com/2227-7390/9/22/2988
-- 
+- https://ieeexplore.ieee.org/abstract/document/9709267
