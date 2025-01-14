@@ -6,10 +6,9 @@ Methodology
 - preprocess
 - clean data tokonize
 - divide test and train data
-- address class imbalance?
-- TF-IDF and Word Frequency (KNN?) => https://www.sciencedirect.com/science/article/pii/S0747563224001420
-- or bert? classification labeling => https://www.splunk.com/en_us/blog/security/deep-learning-in-security-text-based-phishing-email-detection-with-bert-model.html
-- Extract certain features as word count, whether there is an URL (KNN?)
+- TF-IDF and Word Frequency (KNN?) => https://www.sciencedirect.com/science/article/pii/S0747563224001420 => Amjad
+- or bert? classification labeling => https://www.splunk.com/en_us/blog/security/deep-learning-in-security-text-based-phishing-email-detection-with-bert-model.html => Sara
+- POS (Part of speech) Husam
 - train models
 - test models
 - visualize results
@@ -19,8 +18,6 @@ tasks
 - description dataset and methodology
 - discussion results
 
-
-Research Question 2: Can topic modeling combined with engagement metrics (e.g., retweets) predict the likelihood of news being fake across different source domains?
 
 Literature review for chosen dataset:
 
