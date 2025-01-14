@@ -8,6 +8,7 @@ Methodology
 - divide test and train data
 - TF-IDF and Word Frequency (KNN?) => https://www.sciencedirect.com/science/article/pii/S0747563224001420 => Amjad
 - or bert? classification labeling => https://www.splunk.com/en_us/blog/security/deep-learning-in-security-text-based-phishing-email-detection-with-bert-model.html => Sara
+  literature on Bert; https://ceur-ws.org/Vol-3575/Paper4.pdf
 - POS (Part of speech) Husam
 - train models
 - test models
