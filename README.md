@@ -1,6 +1,8 @@
 Research Question 1:
 How do linguistic and contextual features in emails contribute to identifying phishing attempts?
 
+Change research question
+How do different machine learning and deep learning models, including traditional methods (e.g., TF-IDF with KNN) and advanced approaches (e.g., BERT-based classifiers), compare in their effectiveness for detecting phishing emails
 
 Methodology
 - preprocess
@@ -11,7 +13,7 @@ Methodology
   literature on Bert; https://ceur-ws.org/Vol-3575/Paper4.pdf
 - POS (Part of speech) Husam
 - train models
-- test models
+- test models => what metric do we want to use?
 - visualize results
 
 tasks
