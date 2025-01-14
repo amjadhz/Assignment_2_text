@@ -7,9 +7,9 @@ Methodology
 - clean data tokonize
 - divide test and train data
 - address class imbalance?
-- TF-IDF and Word Frequency? => https://www.sciencedirect.com/science/article/pii/S0747563224001420
+- TF-IDF and Word Frequency (KNN?) => https://www.sciencedirect.com/science/article/pii/S0747563224001420
 - or bert? classification labeling => https://www.splunk.com/en_us/blog/security/deep-learning-in-security-text-based-phishing-email-detection-with-bert-model.html
-- Extract certain features as word count, whether there is an URL
+- Extract certain features as word count, whether there is an URL (KNN?)
 - train models
 - test models
 - visualize results
