@@ -7,7 +7,7 @@ Methodology
 - divide test and train data
 - address class imbalance?
 - vector embedding? 
-- or bert? classification labeling?
+- or bert? classification labeling => https://www.splunk.com/en_us/blog/security/deep-learning-in-security-text-based-phishing-email-detection-with-bert-model.html
 - train models
 - test models
 - visualize results
