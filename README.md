@@ -1,14 +1,15 @@
 Research Question 1:
 How do linguistic and contextual features in emails contribute to identifying phishing attempts?
 
+
 Methodology
 - preprocess
 - clean data tokonize
 - divide test and train data
 - address class imbalance?
-- vector embedding?
 - TF-IDF and Word Frequency? => https://www.sciencedirect.com/science/article/pii/S0747563224001420
 - or bert? classification labeling => https://www.splunk.com/en_us/blog/security/deep-learning-in-security-text-based-phishing-email-detection-with-bert-model.html
+- Extract certain features as word count, whether there is an URL
 - train models
 - test models
 - visualize results
